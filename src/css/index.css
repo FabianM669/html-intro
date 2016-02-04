@@ -10,11 +10,6 @@
 	height: 300px;
 }
 
-head {
-	font-family: sans-serif;
-	color: red;
-}
-
 .list {
 	margin: 0px;
 	padding: 0px;
@@ -33,4 +28,9 @@ head {
 
 .list li {
 	display: inline;
+}
+
+h3{
+	font-family: sans-serif;
+	color: red;
 }
