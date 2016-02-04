@@ -1,6 +1,7 @@
 .content {
 	background-color: black;
 	width: 600px;
+	margin: 0 auto;
 	color: blue;
 }
 
@@ -14,3 +15,22 @@ head {
 	color: red;
 }
 
+.list {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.hyper {
+	text-decoration: none;
+	background-color: pink;
+}
+
+.p1 {
+	color: white;
+	background-color: blue;
+}
+
+.list li {
+	display: inline;
+}
